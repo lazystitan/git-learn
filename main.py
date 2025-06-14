@@ -1,2 +1,3 @@
 if __name__ == '__main__':
     print(1111)
+    print(2222)
